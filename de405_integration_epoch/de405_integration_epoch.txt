@@ -1,0 +1,11 @@
+>> de405_integration_epoch
+ 
+The position of the  : Moon
+As observed from the : Earth
+In reference frame   : J2000
+ 
+At epoch (UTC)     : 1969 JUN 27 23:59:18.816
+ 
+R (AU)     : -0.0008081773279115 -0.0019946300016204 -0.0010872626608381
+V (AU/day) : 0.0006010848166591 -0.0001674454606152 -0.0000855621449740
+

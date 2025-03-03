@@ -1,0 +1,81 @@
+************************************************
+* input data file for oota_snopt.m MATLAB script
+* impulsive LEO-to-Molniya orbital transfer
+* filename ==> leo2moly.in
+************************************************
+
+central body gravitational constant (kilometers^3/seconds^2)
+398600.4415
+
+central body radius (kilometers)
+6378.14
+
+*************
+initial orbit
+*************
+
+semimajor axis (kilometers)
+(semimajor axis > 0)
+6653.14
+
+orbital eccentricity (non-dimensional) 
+(0 <= eccentricity < 1)
+0.0
+
+orbital inclination (degrees) 
+(0 <= inclination <= 180)
+51.6
+
+argument of perigee (degrees) 
+(0 <= argument of perigee <= 360)
+0
+
+right ascension of the ascending node (degrees) 
+(0 <= raan <= 360)
+0
+
+***********
+final orbit
+***********
+
+semimajor axis (kilometers)
+(semimajor axis > 0)
+26553.071184
+
+orbital eccentricity (non-dimensional) 
+(0 <= eccentricity < 1)
+0.737
+
+orbital inclination (degrees) 
+(0 <= inclination <= 180)
+63.4
+
+argument of perigee (degrees) 
+(0 <= argument of perigee <= 360)
+270.0
+
+right ascension of the ascending node (degrees) 
+(0 <= raan <= 360)
+100.0
+
+***************************
+algorithm search parameters
+***************************
+
+initial orbit true anomaly at which to begin the search (degrees)
+0
+
+final orbit true anomaly at which to begin the search (degrees)
+0
+
+initial orbit true anomaly search increment (degrees)
+60
+
+final orbit true anomaly search increment (degrees)
+60
+
+number of initial orbit true anomaly search intervals
+6
+
+number of final orbit true anomaly search intervals
+6
